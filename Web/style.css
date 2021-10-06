@@ -1,0 +1,9 @@
+header,
+section {
+  border: 1px rgb(14, 13, 13) solid;
+  margin: 2rem 1rem;
+}
+
+header {
+  border: maroon solid;
+}
